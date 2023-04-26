@@ -1,6 +1,6 @@
-# fetchdatafromapi
+# Login_And_Fetch_Data_From_Api-Bloc
 
-A new Flutter project.
+This is sample app to login and fetching data from api using bloc in flutter
 
 ## Getting Started
 
